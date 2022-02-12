@@ -5,7 +5,7 @@
 + **Nurzhan Nurmukhambetov** (*180107267*) - Unity Developer, Game Designer, 3D modeller, Animator, C# programmer (GitHub account: *Userures*)
 
 ## Project
-This project is yet-another clone of Instagram
+Unity Game based on the animated show "BEN 10".
 
 ## Alternatives / Market research
 | Research alternatives
@@ -13,32 +13,13 @@ This project is yet-another clone of Instagram
 ## Goals
 
 ## Technologies
-In our project we use **Laravel**, **VueJS**
-
-## Pages / Activities 
-We will have following pages:
-- Latest posts of friends
-- Posts from location of user
-- Take a photo page
-- Personal page
-- Settings page
+In our project we use **Unity3d**, **C#**
 
 ## Goals
 * What is the purpose of this project?
 * What are the problems it will solve?
 * How will it streamline or improve the current process or facilitate a new process?
-* What is the product vision?
-
-## User Personas
-*Write description of user personas here*  
-
-## User stories
-
-*Write your user stories here*
-
-## Sitemap, Page descriptions
-
-*Display sitemap here*
+* What is the product vision? 
 
 ## Non-Functional requirements
 *Write non-functional requirements*
