@@ -8,7 +8,7 @@
 Unity Game based on the animated show "BEN 10".
 
 ## Alternatives / Market research
-| NONE
+| Ben 10 Power Trip, Ben 10 protector of earth on PSP(and etc).
 
 ## Goals
 To create Unity Game based on the animated show "BEN 10".
