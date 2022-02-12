@@ -8,16 +8,20 @@
 Unity Game based on the animated show "BEN 10".
 
 ## Alternatives / Market research
-| Research alternatives
+| NONE
 
 ## Goals
+To create Unity Game based on the animated show "BEN 10".
+
 
 ## Technologies
 In our project we use **Unity3d**, **C#**
 
 ## Goals
 * What is the purpose of this project?
+*     To create Unity Game based on the animated show "BEN 10" and present the potential of this game.
 * What are the problems it will solve?
+*     To entertain children.
 * How will it streamline or improve the current process or facilitate a new process?
 * What is the product vision? 
 
@@ -26,9 +30,4 @@ In our project we use **Unity3d**, **C#**
 
 ## Risks
 *What are the risks?*
-
-## Mockups, Wireframes
-*Put here images of your wireframes*
-
-## Future iterations
-*Write your future iterations*
+  copyright problems. 
