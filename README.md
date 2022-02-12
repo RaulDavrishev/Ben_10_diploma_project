@@ -21,7 +21,7 @@ In our project we use **Unity3d**, **C#**
 * What is the purpose of this project?
 *     To create Unity Game based on the animated show "BEN 10" and present the potential of this game.
 * What are the problems it will solve?
-*     To entertain children.
+*     To entertain.
 * How will it streamline or improve the current process or facilitate a new process?
 * What is the product vision? 
 
